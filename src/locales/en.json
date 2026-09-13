@@ -1,0 +1,39 @@
+{
+  "COMMON": {
+    "INVALID_URL": "Invalid URL",
+    "INVALID_TOKEN": "Invalid token"
+  },
+
+  "USER": {
+    "PHONE_NUMBER_IS_NOT_EMPTY": "Phone number must not be empty",
+    "INVALID_PHONE_NUMBER": "Invalid phone number",
+    "NOT_FOUND": "User not found",
+    "EMAIL_ALREADY_EXISTS": "Email already exists"
+  },
+
+  "LOBBY": {
+    "NOT_FOUND": "Lobby not found",
+    "INVALID_PASSWORD": "Invalid lobby password",
+    "NOT_HOST": "Only the host can perform this action",
+    "NOT_ENOUGH_PLAYERS": "At least 3 players are required to start the game"
+  },
+
+  "GAME": {
+    "NOT_FOUND": "Game not found",
+    "NOT_IN_VOTING_PHASE": "Game is not in the voting phase",
+    "ALREADY_VOTED": "You have already voted in this game",
+    "ENDED": "Game has already ended",
+    "NOT_LIVE": "Game is not currently live",
+    "NOT_YOUR_TURN": "It is not your turn"
+  },
+
+  "CATEGORY": {
+    "NOT_FOUND": "Category not found"
+  },
+  "WORD": {
+    "NOT_FOUND_FOR_CATEGORY": "No words found for the given category"
+  },
+  "PLAYER": {
+    "NOT_FOUND": "Player not found"
+  }
+}

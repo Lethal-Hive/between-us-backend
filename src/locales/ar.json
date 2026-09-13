@@ -1,0 +1,37 @@
+{
+  "COMMON": {
+    "INVALID_URL": "رابط غير صالح",
+    "INVALID_TOKEN": "رمز غير صالح"
+  },
+
+  "USER": {
+    "PHONE_NUMBER_IS_NOT_EMPTY": "يجب ألا يكون رقم الهاتف فارغًا",
+    "INVALID_PHONE_NUMBER": "رقم هاتف غير صالح",
+    "NOT_FOUND": "المستخدم غير موجود",
+    "EMAIL_ALREADY_EXISTS": "البريد الإلكتروني موجود بالفعل"
+  },
+
+  "LOBBY": {
+    "NOT_FOUND": "الغرفه غير موجوده",
+    "INVALID_PASSWORD": "كلمة مرور الغرفه غير صحيحه",
+    "NOT_HOST": "فقط المضيف يمكنه تنفيذ هذا الإجراء",
+    "NOT_ENOUGH_PLAYERS": "يجب أن يكون هناك 3 لاعبين على الأقل لبدء اللعبة"
+  },
+  "GAME": {
+    "NOT_FOUND": "اللعبة غير موجودة",
+    "NOT_IN_VOTING_PHASE": "اللعبة ليست في مرحلة التصويت",
+    "ALREADY_VOTED": "لقد قمت بالتصويت بالفعل في هذه اللعبة",
+    "ENDED": "اللعبة انتهت بالفعل",
+    "NOT_LIVE": "اللعبة ليست نشطة حالياً",
+    "NOT_YOUR_TURN": "ليس دورك الآن"
+  },
+  "CATEGORY": {
+    "NOT_FOUND": "الفئة غير موجودة"
+  },
+  "WORD": {
+    "NOT_FOUND_FOR_CATEGORY": "لا توجد كلمات للفئة المحددة"
+  },
+  "PLAYER": {
+    "NOT_FOUND": "اللاعب غير موجود"
+  }
+}

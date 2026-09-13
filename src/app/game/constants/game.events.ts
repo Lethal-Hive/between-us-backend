@@ -1,0 +1,15 @@
+export const GameHeartBeatEvent = 'game-heartbeat';
+export const NewPlayerJoinedEvent = 'new-player-joined';
+export const PlayerLeftEvent = 'player-left';
+export const WordChangedEvent = 'word-changed';
+export const RoomClosedEvent = 'room-closed';
+export const GameStartedEvent = 'game-started';
+export const TimerStartedEvent = 'timer-started';
+export const RevealYourWordEvent = 'reveal-your-word';
+export const VotingResultsEvent = 'voting-results';
+export const PlayerBackOnlineEvent = 'player-back-online';
+export const PlayerWentAwayEvent = 'player-went-away';
+export const NextTurnEvent = 'next-turn';
+export const NewVoteEvent = 'new-vote';
+export const VotePhaseEvent = 'vote-phase';
+export const LobbySettingsUpdatedEvent = 'lobby-settings-updated';
