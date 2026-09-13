@@ -38,7 +38,7 @@ Before running the project, make sure you have:
 ### 1) Install dependencies
 
 ```bash
-git clone https://github.com/Lethal-Hive/between-us-backend-revamp.git
+git clone https://github.com/Lethal-Hive/between-us-backend.git
 cd between-us-backend
 npm install
 ```
